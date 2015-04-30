@@ -106,14 +106,14 @@
 "Plant Methods","BioMed Central","1746-4811",2.586,1,"PLANT SCIENCES","UK","no"
 "Proceedings of the Japan Academy, Ser. B, Physical and Biological Sciences","Japan Academy","0386-2208",2.562,1,"MULITDISCIPLINARY SCIENCES","JP","no"
 "Tellus A","Co-Action Publishing","0280-6495",2.518,1,"OCEANOGRAPHY","SE","yes"
-"Acta Orthopaedica","Informa Healthcare","1745-3674",2.452,1,"ORTHOPEDICS","UK",
-"Chinese Medicine","BioMed Central","1749-8546",2.343,1,"INTEGRATIVE & COMPLEMENTA","UK",
-"Beilstein Journal of Nanotechnology","Beilstein-Institut","2190-4286",2.332,1,"PHYSICS, APPLIED","DE",
-"Frontiers in Zoology","BioMed Central","1742-9994",2.304,1,"ZOOLOGY","UK",
-"Frontiers in Computational Neuroscience","Frontiers Media","1662-5188",2.233,1,"MATHEMATICAL & COMPUTATI","CH",
-"Contributions to Zoology","Naturalis","1383-4517",2.029,1,"ZOOLOGY","NL",
-"CBE : Life Sciences Education","American Society for Cell Biology","1931-7913",1.878,1,"EDUCATION, SCIENTIFIC DISCIPLI, ","US",
-"Journal of the American Board of Family Medicine","HighWire","1557-2625",1.848,1,"PRIMARY HEALTH CARE","US",
+"Acta Orthopaedica","Informa Healthcare","1745-3674",2.452,1,"ORTHOPEDICS","UK","no"
+"Chinese Medicine","BioMed Central","1749-8546",2.343,1,"INTEGRATIVE & COMPLEMENTA","UK","no"
+"Beilstein Journal of Nanotechnology","Beilstein-Institut","2190-4286",2.332,1,"PHYSICS, APPLIED","DE","no"
+"Frontiers in Zoology","BioMed Central","1742-9994",2.304,1,"ZOOLOGY","UK","yes"
+"Frontiers in Computational Neuroscience","Frontiers Media","1662-5188",2.233,1,"MATHEMATICAL & COMPUTATI","CH","no"
+"Contributions to Zoology","Naturalis","1383-4517",2.029,1,"ZOOLOGY","NL","yes"
+"CBE : Life Sciences Education","American Society for Cell Biology","1931-7913",1.878,1,"EDUCATION, SCIENTIFIC DISCIPLI, ","US","yes"
+"Journal of the American Board of Family Medicine","HighWire","1557-2625",1.848,1,"PRIMARY HEALTH CARE","US","yes"
 "Current Zoology","Current Zoology","1674-5507",1.814,1,"ZOOLOGY","CN","no"
 "BMC Veterinary Research","BioMed Central","1746-6148",1.743,1,"VETERINARY SCIENCES","UK","no"
 "Journal of Reproduction and Development","Society for Reproduction and Develo","0916-8818",1.635,1,"AGRICULTURE, DAIRY & ANIMAL , ","JP","no"
@@ -121,135 +121,135 @@
 "BioResources","North Carolina State University","1930-2126",1.549,1,"MATERIALS SCIENCE, PAPER &","US","no"
 "Pakistan Veterinary Journal","University of Agriculture, Faisalabad","0253-8318",1.392,1,"VETERINARY SCIENCES","PK","no"
 "Abstract and Applied Analysis","Hindawi Publishing Corporation","1085-3375",1.274,1,"MATHEMATICS, APPLIED","US","yes"
-"Bulletin (new series) of the American Mathe","American Mathematical Society","0273-0979",1.172,1,"MATHEMATICS","US",
+"Bulletin of the American Mathematical Society","American Mathematical Society","0273-0979",1.172,1,"MATHEMATICS","US","yes"
 "Oil & Gas Science and Technology","Institut Français du Pétrole","1294-4475",1.107,1,"ENGINEERING, PETROLEUM","FR","no"
 "Hyle: International Journal for Philosophy of Chemistry","HYLE Publications, Karlsruhe and Univ","1433-5158",0.7,1,"HISTORY & PHILOSOPHY OF SCIE ,,G","DE","no"
-"Cell Death and Disease","Nature Publishing Group","2041-4889",5.177,2,"CELL BIOLOGY","UK",
-"Cell Communication and Signaling","BioMed Central","1478-811X",4.672,2,"CELL BIOLOGY","UK",
-"Frontiers in Cellular Neuroscience","Frontiers Media","1662-5102",4.175,2,"NEUROSCIENCES","CH",
-"Frontiers in Behavioral Neuroscience","Frontiers Media","1662-5153",4.16,2,"NEUROSCIENCES","CH",
-"Neurosignals","S. Karger AG","1424-862X",4.026,2,"CELL BIOLOGY","CH",
-"American Journal of Cancer Research","e-Century Publishing Corporation","2156-6976",3.968,2,"ONCOLOGY","US",
-"Orphanet Journal of Rare Diseases","BioMed Central","1750-1172",3.958,2,"GENETICS & HEREDITY","UK",
-"BMC Medical Genomics","BioMed Central","1755-8794",3.914,2,"GENETICS & HEREDITY","UK",
-"Cardiovascular Diabetology","BioMed Central","1475-2840",3.706,2,"CARDIAC & CARDIOVASCULAR S","UK",
-"Circulation Journal","The Japanese Circulation Society","1346-9843",3.685,2,"CARDIAC & CARDIOVASCULAR S","JP",
-"Neural Plasticity","Hindawi Publishing Corporation","2090-5904",3.608,2,"NEUROSCIENCES","EG",
-"Molecular Pain","BioMed Central","1744-8069",3.531,2,"NEUROSCIENCES","UK",
-"Biomedical Optics Express","Optical Society of America","2156-7085",3.497,2,"BIOCHEMICAL RESEARCH METH","US",
-"Malaria Journal","BioMed Central","1475-2875",3.489,2,"INFECTIOUS DISEASES","UK",
-"BMC Evolutionary Biology","BioMed Central","1471-2148",3.407,2,"GENETICS & HEREDITY","UK",
-"Neural Development","BioMed Central","1749-8104",3.372,2,"DEVELOPMENTAL BIOLOGY","UK",
-"Oxidative Medicine and Cellular Longevity","Hindawi Publishing Corporation","1942-0900",3.363,2,"CELL BIOLOGY","EG",
-"Revista Española de Cardiología","Sociedad Española de Cardiología","0300-8932",3.342,2,"CARDIAC & CARDIOVASCULAR S","ES",
-"BMC Cancer","BioMed Central","1471-2407",3.319,2,"ONCOLOGY","UK",
-"Journal of Headache and Pain","Springer","1129-2369",3.281,2,"CLINICAL NEUROLOGY","DE",
-"Viruses","MDPI AG","1999-4915",3.279,2,"VIROLOGY","CH",
-"Journal of Experimental & Clinical Cancer Res","BioMed Central","1756-9966",3.271,2,"ONCOLOGY","UK",
-"American Journal of Translational Research","e-Century Publishing Corporation","1943-8141",3.226,2,"MEDICINE, RESEARCH & EXPERI","US",
-"Cell & Bioscience","BioMed Central","2045-3701",3.21,2,"BIOCHEMISTRY & MOLECULAR B ","UK",
-"Standards in Genomic Sciences","Genomic Standards Consortium","1944-3277",3.167,2,"MICROBIOLOGY","US",
-"Nutrients","MDPI AG","2072-6643",3.148,2,"NUTRITION & DIETETICS","CH",
-"EvoDevo","BioMed Central","2041-9139",3.104,2,"DEVELOPMENTAL BIOLOGY","UK",
-"Drug Design, Development and Therapy","Dove Medical Press Ltd","1177-8881",3.026,2,"PHARMACOLOGY & PHARMACY","UK",
-"BMC Microbiology","BioMed Central","1471-2180",2.976,2,"MICROBIOLOGY","UK",
-"Epilepsy Currents","Blackwell","1535-7597",2.952,2,"CLINICAL NEUROLOGY","US",
-"Frontiers in Neural Circuits","Frontiers Media","1662-5110",2.95,2,"NEUROSCIENCES","CH",
-"ChemistryOpen","Wiley","2191-1363",2.938,2,"CHEMISTRY, MULITDISCIPLINARYAR","DE",
-"Clinical and Developmental Immunology","Hindawi Publishing Corporation","1740-2522",2.934,2,"IMMUNOLOGY","US",
-"Blood Cancer Journal","Nature Publishing Group","2044-5385",2.884,2,"ONCOLOGY","UK",
-"Journal of the American Heart Association : C","Wiley","2047-9980",2.882,2,"CARDIAC & CARDIOVASCULAR SURGERY","US",
-"Drug Metabolism and Pharmacokinetics","Japanese Society for the Study of Xen","1347-4367",2.863,2,"PHARMACOLOGY & PHARMACY","JP",
-"Beilstein Journal of Organic Chemistry","Beilstein-Institut","1860-5397",2.82,2,"CHEMISTRY, ORGANIC","DE",
-"Journal of Atherosclerosis and Thrombosis","Japan Atherosclerosis Society","1340-3478",2.77,2,"PERIPHERAL VASCULAR DISEASE","JP",
-"BMC Developmental Biology","BioMed Central","1471-213X",2.752,2,"DEVELOPMENTAL BIOLOGY","UK",
-"Journal of Biomedical Science","BioMed Central","1021-7770",2.736,2,"MEDICINE, RESEARCH & EXPERI","UK",
-"International Journal of COPD","Dove Medical Press","1176-9106",2.732,2,"RESPIRATORY SYSTEM","UK",
-"Journal of Physiology and Pharmacology","Krakow Polish Physiological Society","0867-5910",2.72,2,"PHYSIOLOGY","PO",
-"Ecology and Society","The Resilience Alliance","1708-3087",2.669,2,"ECOLOGY","CA",
-"Molecular Cytogenetics","BioMed Central","1755-8166",2.662,2,"GENETICS & HEREDITY","UK",
-"Geochemical Transactions","BioMed Central","1467-4866",2.647,2,"GEOCHEMISTRY & GEOPHYSICS","UK",
-"Nutrition Journal","BioMed Central","1475-2891",2.635,2,"NUTRITION & DIETETICS","UK",
-"Advances in High Energy Physics","Hindawi Publishing Corporation","1687-7357",2.624,2,"PHYSICS, PARTICLES & FIELDS","EG",
-"BMC Biotechnology","BioMed Central","1472-6750",2.592,2,"BIOTECHNOLOGY & APPLIED MI","UK",
-"BMC Infectious Diseases","BioMed Central","1471-2334",2.561,2,"INFECTIOUS DISEASES","UK",
-"Asian Journal of Andrology","Medknow Publications and Media Pv","1008-682X",2.53,2,"ANDROLOGY","IN",
-"Journal of Space Weather and Space Climate","EDP Sciences","2115-7251",2.519,2,"ASTRONOMY & ASTROPHYSICS","FR",
-"Polymers","MDPI AG","2073-4360",2.505,2,"POLYMER SCIENCE","CH",
-"BMC Neurology","BioMed Central","1471-2377",2.486,2,"CLINICAL NEUROLOGY","UK",
-"Toxins","MDPI AG","2072-6651",2.48,2,"TOXICOLOGY","CH",
-"World Journal of Gastroenterology","Baishideng Publishing Group Co. Limi","1007-9327",2.433,2,"GASTROENTEROLOGY & HEPAT","CN",
-"Diagnostic Pathology","BioMed Central","1746-1596",2.411,2,"PATHOLOGY","UK",
-"Biochemia Medica","Medicinska naklada, Zagreb","1330-0962",2.4,2,"MEDICAL LABORATORY TECHNO ","HR",
-"Radiation Oncology","BioMed Central","1748-717X",2.36,2,"RADIOLOGY, NUCLEAR MEDICIN","UK",
-"International Journal of Molecular Sciences","MDPI AG","1422-0067",2.339,2,"CHEMISTRY, MULITDISCIPLINARYAR","CH",
-"BMC Public Health","BioMed Central","1471-2458",2.321,2,"PUBLIC, ENVIRONMENTAL & OC","UK",
-"Platinum Metals Review","Johnson Matthey","0032-1400",2.294,2,"CHEMISTRY, PHYSICAL","UK",
-"Nano-Micro Letters","Open Access House of Science and Te","2150-5551",2.275,2,"NANOSCIENCE & NANOTECHNO","US",
-"BMC Psychiatry","BioMed Central","1471-244X",2.237,2,"PSYCHIATRY","UK",
-"Evidence-Based Complementary and Alternat","Hindawi Publishing Corporation","1741-427X",2.175,2,"INTEGRATIVE & COMPLEMENTA","UK",
-"BMC Medical Research Methodology","BioMed Central","1471-2288",2.168,2,"HEALTH CARE SCIENCES & SERVI ","UK",
-"Solid Earth","Copernicus Publications","1869-9510",2.155,2,"GEOCHEMISTRY & GEOPHYSICS","DE",
-"BMC Pregnancy and Childbirth","BioMed Central","1471-2393",2.152,2,"OBSTETRICS & GYNECOLOGY","UK",
-"Neurosurgical Focus","American Association of Neurological","1092-0684",2.135,2,"SURGERY","US",
-"Health and Quality of Life Outcomes","BioMed Central","1477-7525",2.099,2,"HEALTH CARE SCIENCES & SERVI ","UK",
-"BMJ Open","BMJ Journals","2044-6055",2.063,2,"MEDICINE, GENERAL & INTERNAL MEDICINE","UK",
-"Polish Archives of Internal Medicine","Medycyna Praktyczna","0032-3772",2.052,2,"MEDICINE, GENERAL & INTERNA , ,","PO",
-"Sensors","MDPI AG","1424-8220",2.048,2,"CHEMISTRY, ANALYTICAL","CH",
-"International Journal of Environmental Resea","MDPI AG","1660-4601",1.993,2,"ENVIRONMENTAL SCIENCES","CH",
-"Ocean Science (OS)","Copernicus Publications","1812-0784",1.962,2,"OCEANOGRAPHY","DE",
-"Preventing Chronic Disease","National Center for Chronic Disease P","1545-1151",1.956,2,"PUBLIC, ENVIRONMENTAL & OC","US",
-"Journal of Biosciences","Indian Academy of Sciences","0250-5991",1.939,2,"BIOLOGY","IN",
-"BMC Urology","BioMed Central","1471-2490",1.937,2,"UROLOGY & NEPHROLOGY","UK",
-"Journal of Ophthalmology","Hindawi Publishing Corporation","2090-004X",1.935,2,"OPHTHALMOLOGY","EG",
-"Scandinavian Journal of Trauma, Resuscitatio","BioMed Central","1757-7241",1.926,2,"EMERGENCY MEDICINE","UK",
-"BMC Pediatrics","BioMed Central","1471-2431",1.918,2,"PEDIATRICS","UK",
-"Archives of Medical Science","Termedia Publishing House","1734-1922",1.89,2,"MEDICINE, GENERAL & INTERNA ","PO",
-"Materials","MDPI AG","1996-1944",1.879,2,"MATERIALS SCIENCE, MULTIDISC , ","CH",
-"BMC Complementary and Alternative Medici","BioMed Central","1472-6882",1.877,2,"INTEGRATIVE & COMPLEMENTA","UK",
-"Swiss Medical Weekly","EMH Swiss Medical Publishers","1424-7860",1.877,2,"MEDICINE, GENERAL & INTERNA ","CH",
-"Gold bulletin : a quarterly review of research","World Gold Council","0017-1557",1.84,2,"MATERIALS SCIENCE, MULTIDISC, ","UK",
-"Globalization and Health","BioMed Central","1744-8603",1.833,2,"PUBLIC, ENVIRONMENTAL & OC","UK",
-"Journal of Foot and Ankle Research","BioMed Central","1757-1146",1.831,2,"ORTHOPEDICS","UK",
-"Natural Hazards and Earth System Sciences","Copernicus Publications","1561-8633",1.826,2,"WATER RESOURCES","DE",
-"Marine and Coastal Fisheries : Dynamics, Ma","American Fisheries Society","1942-5120",1.81,2,"MARINE & FRESHWATER BIOLOGY","US",
-"Korean Journal of Radiology","Korean Radiological Society","1229-6929",1.807,2,"RADIOLOGY, NUCLEAR MEDICIN","KR",
-"BMC Palliative Care","BioMed Central","1472-684X",1.787,2,"HEALTH CARE SCIENCES & SERVI ","UK",
-"Fishery Bulletin","U.S. National Marine Fisheries Servic","0090-0656",1.783,2,"FISHERIES","US",
-"BioMedical Engineering OnLine","BioMed Central","1475-925X",1.746,2,"ENGINEERING, BIOMEDICAL","UK",
-"AoB Plants","Oxford University Press","2041-2851",1.743,2,"PLANT SCIENCES","UK",
-"BMC Family Practice","BioMed Central","1471-2296",1.735,2,"MEDICINE, GENERAL & INTERNA  ,","UK",
-"Mediterranean Marine Science","Hellenic Centre for Marine Research","1108-393X",1.734,2,"MARINE & FRESHWATER BIOLOGY","GR",
-"Acta Palaeontologica Polonica","Polish Academy of Sciences","0567-7920",1.722,2,"PALEONTOLOGY","PO",
-"South African Medical Journal","Health and Medical Publishing Group","0256-9574",1.712,2,"MEDICINE, GENERAL & INTERNA S A, ,S A ","ZA",
-"Upsala Journal of Medical Sciences","Upsala Medical Society","0300-9734",1.708,2,"MEDICINE, GENERAL & INTERNA  ,","SE",
-"Journal of Radiation Research","Oxford University Press","0449-3060",1.691,2,"RADIOLOGY, NUCLEAR MEDICIN","JP",
-"Journal of Rehabilitation Research and Devel","Rehabilitation Research and Develop","0748-7711",1.688,2,"REHABILITATION","US",
-"Polar Research","Co-Action Publishing","0800-0395",1.686,2,"OCEANOGRAPHY","SE",
-"Annales Geophysicae","Copernicus Publications","0992-7689",1.676,2,"GEOSCIENCES, MULITDISCIPLINARY","DE",
-"Chemistry Central Journal","BioMed Central","1752-153X",1.663,2,"CHEMISTRY, MULITDISCIPLINARYAR","UK",
-"Global Health Action","Co-Action Publishing","1654-9880",1.646,2,"PUBLIC, ENVIRONMENTAL & OC","SE",
-"American Museum Novitates","American Museum of Natural History","0003-0082",1.636,2,"BIODIVERSITY CONSERVATION","US",
-"Pediatric Rheumatology","BioMed Central","1546-0096",1.622,2,"PEDIATRICS","UK",
-"Reproductive Health","BioMed Central","1742-4755",1.616,2,"PUBLIC, ENVIRONMENTAL & OC","UK",
-"AIP Advances","AIP Publishing LLC","2158-3226",1.59,2,"PHYSICS, APPLIED","US",
-"Physical Review Special Topics. Physics Educa","American Physical Society","1554-9178",1.573,2,"EDUCATION, SCIENTIFIC DISCIPLI ,","US",
-"Memórias do Instituto Oswaldo Cruz.","Instituto Oswaldo Cruz, Ministério da","0074-0276",1.566,2,"TROPICAL MEDICINE","BR",
-"Entropy","MDPI AG","1099-4300",1.564,2,"PHYSICS, MULITDISCIPLINARY","CH",
-"International Journal of Medical Sciences","Ivyspring International Publisher","1449-1907",1.552,2,"MEDICINE, GENERAL & INTERNA  ","AU",
-"BioData Mining","BioMed Central","1756-0381",1.535,2,"MATHEMATICAL & COMPUTATI","UK",
-"Science China Life Sciences","Springer","1674-7305",1.512,2,"BIOLOGY","DE",
-"Journal of Athletic Training","The National Athletic Trainers' Associ","1062-6050",1.509,2,"SPORT SCIENCES","US",
-"BMC Medical Informatics and Decision Makin","BioMed Central","1472-6947",1.496,2,"MEDICAL INFORMATICS","UK",
-"Bulletin of Geosciences","Czech Geological Survey","1214-1119",1.495,2,"GEOSCIENCES, MULITDISCIPLINARYA,, ","CZ",
-"Patient Preference and Adherence","Dove Medical Press","1177-889X",1.491,2,"MEDICINE, GENERAL & INTERNA  , ","UK",
-"Koedoe : African Protected Area Conservatio","AOSIS OpenJournals","0075-6458",1.486,2,"BIODIVERSITY CONSERVATION","ZA",
-"Geologica Acta","Universidad de Barcelona","1695-6133",1.483,2,"GEOLOGY","ES",
-"Turkish Journal of Earth Sciences","Scientific and Technical Research Cou","1300-0985",1.474,2,"GEOSCIENCES, MULITDISCIPLINARYA,,","TR",
-"Silva Fennica","Finnish Society of Forest Science, Fin","0037-5330",1.47,2,"FORESTRY","FI",
-"Computational Linguistics","MIT Press","0891-2017",1.468,2,"COMPUTER SCIENCE, ARTIFICIAL   ,","UK",
-"Acta Otorhinolaryngologica Italica","Pacini Editore SpA","0392-100X",1.439,2,"OTORHINOLARYNGOLOGY","IT",
-"Clinics","Faculdade de Medicina / USP","1807-5932",1.422,2,"MEDICINE, GENERAL & INTERNA  ","BR",
+"Cell Death and Disease","Nature Publishing Group","2041-4889",5.177,2,"CELL BIOLOGY","UK","no"
+"Cell Communication and Signaling","BioMed Central","1478-811X",4.672,2,"CELL BIOLOGY","UK","yes"
+"Frontiers in Cellular Neuroscience","Frontiers Media","1662-5102",4.175,2,"NEUROSCIENCES","CH","no"
+"Frontiers in Behavioral Neuroscience","Frontiers Media","1662-5153",4.16,2,"NEUROSCIENCES","CH","no"
+"Neurosignals","S. Karger AG","1424-862X",4.026,2,"CELL BIOLOGY","CH","no"
+"American Journal of Cancer Research","e-Century Publishing Corporation","2156-6976",3.968,2,"ONCOLOGY","US","yes"
+"Orphanet Journal of Rare Diseases","BioMed Central","1750-1172",3.958,2,"GENETICS & HEREDITY","UK","yes"
+"BMC Medical Genomics","BioMed Central","1755-8794",3.914,2,"GENETICS & HEREDITY","UK","no"
+"Cardiovascular Diabetology","BioMed Central","1475-2840",3.706,2,"CARDIAC & CARDIOVASCULAR S","UK","yes"
+"Circulation Journal","The Japanese Circulation Society","1346-9843",3.685,2,"CARDIAC & CARDIOVASCULAR S","JP","no"
+"Neural Plasticity","Hindawi Publishing Corporation","2090-5904",3.608,2,"NEUROSCIENCES","EG","yes"
+"Molecular Pain","BioMed Central","1744-8069",3.531,2,"NEUROSCIENCES","UK","yes"
+"Biomedical Optics Express","Optical Society of America","2156-7085",3.497,2,"BIOCHEMICAL RESEARCH METH","US","yes"
+"Malaria Journal","BioMed Central","1475-2875",3.489,2,"INFECTIOUS DISEASES","UK","yes"
+"BMC Evolutionary Biology","BioMed Central","1471-2148",3.407,2,"GENETICS & HEREDITY","UK","yes"
+"Neural Development","BioMed Central","1749-8104",3.372,2,"DEVELOPMENTAL BIOLOGY","UK","no"
+"Oxidative Medicine and Cellular Longevity","Hindawi Publishing Corporation","1942-0900",3.363,2,"CELL BIOLOGY","EG","no"
+"Revista Española de Cardiología","Sociedad Española de Cardiología","0300-8932",3.342,2,"CARDIAC & CARDIOVASCULAR S","ES","no"
+"BMC Cancer","BioMed Central","1471-2407",3.319,2,"ONCOLOGY","UK","no"
+"Journal of Headache and Pain","Springer","1129-2369",3.281,2,"CLINICAL NEUROLOGY","DE","no"
+"Viruses","MDPI AG","1999-4915",3.279,2,"VIROLOGY","CH","yes"
+"Journal of Experimental & Clinical Cancer Research","BioMed Central","1756-9966",3.271,2,"ONCOLOGY","UK","no"
+"American Journal of Translational Research","e-Century Publishing Corporation","1943-8141",3.226,2,"MEDICINE, RESEARCH & EXPERI","US","yes"
+"Cell & Bioscience","BioMed Central","2045-3701",3.21,2,"BIOCHEMISTRY & MOLECULAR B ","UK","no"
+"Standards in Genomic Sciences","Genomic Standards Consortium","1944-3277",3.167,2,"MICROBIOLOGY","US","no"
+"Nutrients","MDPI AG","2072-6643",3.148,2,"NUTRITION & DIETETICS","CH","yes"
+"EvoDevo","BioMed Central","2041-9139",3.104,2,"DEVELOPMENTAL BIOLOGY","UK","no"
+"Drug Design, Development and Therapy","Dove Medical Press Ltd","1177-8881",3.026,2,"PHARMACOLOGY & PHARMACY","UK","yes"
+"BMC Microbiology","BioMed Central","1471-2180",2.976,2,"MICROBIOLOGY","UK","no"
+"Epilepsy Currents","Blackwell","1535-7597",2.952,2,"CLINICAL NEUROLOGY","US","yes"
+"Frontiers in Neural Circuits","Frontiers Media","1662-5110",2.95,2,"NEUROSCIENCES","CH","no"
+"ChemistryOpen","Wiley","2191-1363",2.938,2,"CHEMISTRY, MULITDISCIPLINARYAR","DE","no"
+"Clinical and Developmental Immunology","Hindawi Publishing Corporation","1740-2522",2.934,2,"IMMUNOLOGY","US","no"
+"Blood Cancer Journal","Nature Publishing Group","2044-5385",2.884,2,"ONCOLOGY","UK","no"
+"Journal of the American Heart Association : Cardiovascular and Cerebrovascular Disease","Wiley","2047-9980",2.882,2,"CARDIAC & CARDIOVASCULAR SURGERY","US","yes"
+"Drug Metabolism and Pharmacokinetics","Japanese Society for the Study of Xen","1347-4367",2.863,2,"PHARMACOLOGY & PHARMACY","JP","no"
+"Beilstein Journal of Organic Chemistry","Beilstein-Institut","1860-5397",2.82,2,"CHEMISTRY, ORGANIC","DE","yes"
+"Journal of Atherosclerosis and Thrombosis","Japan Atherosclerosis Society","1340-3478",2.77,2,"PERIPHERAL VASCULAR DISEASE","JP","no"
+"BMC Developmental Biology","BioMed Central","1471-213X",2.752,2,"DEVELOPMENTAL BIOLOGY","UK","no"
+"Journal of Biomedical Science","BioMed Central","1021-7770",2.736,2,"MEDICINE, RESEARCH & EXPERI","UK","yes"
+"International Journal of COPD","Dove Medical Press","1176-9106",2.732,2,"RESPIRATORY SYSTEM","UK","no"
+"Journal of Physiology and Pharmacology","Krakow Polish Physiological Society","0867-5910",2.72,2,"PHYSIOLOGY","PO","no"
+"Ecology and Society","The Resilience Alliance","1708-3087",2.669,2,"ECOLOGY","CA","yes"
+"Molecular Cytogenetics","BioMed Central","1755-8166",2.662,2,"GENETICS & HEREDITY","UK","no"
+"Geochemical Transactions","BioMed Central","1467-4866",2.647,2,"GEOCHEMISTRY & GEOPHYSICS","UK","no"
+"Nutrition Journal","BioMed Central","1475-2891",2.635,2,"NUTRITION & DIETETICS","UK","no"
+"Advances in High Energy Physics","Hindawi Publishing Corporation","1687-7357",2.624,2,"PHYSICS, PARTICLES & FIELDS","EG","yes"
+"BMC Biotechnology","BioMed Central","1472-6750",2.592,2,"BIOTECHNOLOGY & APPLIED MI","UK","no"
+"BMC Infectious Diseases","BioMed Central","1471-2334",2.561,2,"INFECTIOUS DISEASES","UK","no"
+"Asian Journal of Andrology","Medknow Publications and Media Pv","1008-682X",2.53,2,"ANDROLOGY","IN","yes"
+"Journal of Space Weather and Space Climate","EDP Sciences","2115-7251",2.519,2,"ASTRONOMY & ASTROPHYSICS","FR","no"
+"Polymers","MDPI AG","2073-4360",2.505,2,"POLYMER SCIENCE","CH","no"
+"BMC Neurology","BioMed Central","1471-2377",2.486,2,"CLINICAL NEUROLOGY","UK","no"
+"Toxins","MDPI AG","2072-6651",2.48,2,"TOXICOLOGY","CH","no"
+"World Journal of Gastroenterology","Baishideng Publishing Group Co. Limi","1007-9327",2.433,2,"GASTROENTEROLOGY & HEPAT","CN","yes"
+"Diagnostic Pathology","BioMed Central","1746-1596",2.411,2,"PATHOLOGY","UK","no"
+"Biochemia Medica","Medicinska naklada, Zagreb","1330-0962",2.4,2,"MEDICAL LABORATORY TECHNO ","HR","no"
+"Radiation Oncology","BioMed Central","1748-717X",2.36,2,"RADIOLOGY, NUCLEAR MEDICIN","UK","no"
+"International Journal of Molecular Sciences","MDPI AG","1422-0067",2.339,2,"CHEMISTRY, MULITDISCIPLINARYAR","CH","yes"
+"BMC Public Health","BioMed Central","1471-2458",2.321,2,"PUBLIC, ENVIRONMENTAL & OC","UK","no"
+"Platinum Metals Review","Johnson Matthey","0032-1400",2.294,2,"CHEMISTRY, PHYSICAL","UK","yes"
+"Nano-Micro Letters","Open Access House of Science and Te","2150-5551",2.275,2,"NANOSCIENCE & NANOTECHNO","US","no"
+"BMC Psychiatry","BioMed Central","1471-244X",2.237,2,"PSYCHIATRY","UK","no"
+"Evidence-Based Complementary and Alternat","Hindawi Publishing Corporation","1741-427X",2.175,2,"INTEGRATIVE & COMPLEMENTA","UK","yes"
+"BMC Medical Research Methodology","BioMed Central","1471-2288",2.168,2,"HEALTH CARE SCIENCES & SERVI ","UK","no"
+"Solid Earth","Copernicus Publications","1869-9510",2.155,2,"GEOCHEMISTRY & GEOPHYSICS","DE","no"
+"BMC Pregnancy and Childbirth","BioMed Central","1471-2393",2.152,2,"OBSTETRICS & GYNECOLOGY","UK","no"
+"Neurosurgical Focus","American Association of Neurological Surgeons","1092-0684",2.135,2,"SURGERY","US","no"
+"Health and Quality of Life Outcomes","BioMed Central","1477-7525",2.099,2,"HEALTH CARE SCIENCES & SERVI ","UK","no"
+"BMJ Open","BMJ Journals","2044-6055",2.063,2,"MEDICINE, GENERAL & INTERNAL MEDICINE","UK","no"
+"Polish Archives of Internal Medicine","Medycyna Praktyczna","0032-3772",2.052,2,"MEDICINE, GENERAL & INTERNA , ,","PO","no"
+"Sensors","MDPI AG","1424-8220",2.048,2,"CHEMISTRY, ANALYTICAL","CH","yes"
+"International Journal of Environmental Research","MDPI AG","1660-4601",1.993,2,"ENVIRONMENTAL SCIENCES","CH","yes"
+"Ocean Science (OS)","Copernicus Publications","1812-0784",1.962,2,"OCEANOGRAPHY","DE","yes"
+"Preventing Chronic Disease","National Center for Chronic Disease P","1545-1151",1.956,2,"PUBLIC, ENVIRONMENTAL & OC","US","yes"
+"Journal of Biosciences","Indian Academy of Sciences","0250-5991",1.939,2,"BIOLOGY","IN","yes"
+"BMC Urology","BioMed Central","1471-2490",1.937,2,"UROLOGY & NEPHROLOGY","UK","no"
+"Journal of Ophthalmology","Hindawi Publishing Corporation","2090-004X",1.935,2,"OPHTHALMOLOGY","EG","no"
+"Scandinavian Journal of Trauma, Resuscitation and Emergency Medicine","BioMed Central","1757-7241",1.926,2,"EMERGENCY MEDICINE","UK","no"
+"BMC Pediatrics","BioMed Central","1471-2431",1.918,2,"PEDIATRICS","UK","no"
+"Archives of Medical Science","Termedia Publishing House","1734-1922",1.89,2,"MEDICINE, GENERAL & INTERNA ","PO","no"
+"Materials","MDPI AG","1996-1944",1.879,2,"MATERIALS SCIENCE, MULTIDISC , ","CH","yes"
+"BMC Complementary and Alternative Medicine","BioMed Central","1472-6882",1.877,2,"INTEGRATIVE & COMPLEMENTA","UK","no"
+"Swiss Medical Weekly","EMH Swiss Medical Publishers","1424-7860",1.877,2,"MEDICINE, GENERAL & INTERNA ","CH","yes"
+"Gold Bulletin","Springer","0017-1557",1.84,2,"MATERIALS SCIENCE","UK","no"
+"Globalization and Health","BioMed Central","1744-8603",1.833,2,"PUBLIC, ENVIRONMENTAL & OC","UK","yes"
+"Journal of Foot and Ankle Research","BioMed Central","1757-1146",1.831,2,"ORTHOPEDICS","UK","no"
+"Natural Hazards and Earth System Sciences","Copernicus Publications","1561-8633",1.826,2,"WATER RESOURCES","DE","no"
+"Marine and Coastal Fisheries : Dynamics, Management, and Ecosystem Science","American Fisheries Society","1942-5120",1.81,2,"MARINE & FRESHWATER BIOLOGY","US","no"
+"Korean Journal of Radiology","Korean Radiological Society","1229-6929",1.807,2,"RADIOLOGY, NUCLEAR MEDICIN","KR","no"
+"BMC Palliative Care","BioMed Central","1472-684X",1.787,2,"HEALTH CARE SCIENCES & SERVI ","UK","no"
+"Fishery Bulletin","U.S. National Marine Fisheries Servic","0090-0656",1.783,2,"FISHERIES","US","yes"
+"BioMedical Engineering OnLine","BioMed Central","1475-925X",1.746,2,"ENGINEERING, BIOMEDICAL","UK","no"
+"AoB Plants","Oxford University Press","2041-2851",1.743,2,"PLANT SCIENCES","UK","yes"
+"BMC Family Practice","BioMed Central","1471-2296",1.735,2,"MEDICINE, GENERAL & INTERNA  ,","UK","no"
+"Mediterranean Marine Science","Hellenic Centre for Marine Research","1108-393X",1.734,2,"MARINE & FRESHWATER BIOLOGY","GR","no"
+"Acta Palaeontologica Polonica","Polish Academy of Sciences","0567-7920",1.722,2,"PALEONTOLOGY","PO","yes"
+"South African Medical Journal","Health and Medical Publishing Group","0256-9574",1.712,2,"MEDICINE, GENERAL & INTERNA S A, ,S A ","ZA","yes"
+"Upsala Journal of Medical Sciences","Upsala Medical Society","0300-9734",1.708,2,"MEDICINE, GENERAL & INTERNA  ,","SE","no"
+"Journal of Radiation Research","Oxford University Press","0449-3060",1.691,2,"RADIOLOGY, NUCLEAR MEDICIN","JP","yes"
+"Journal of Rehabilitation Research and Devel","Rehabilitation Research and Develop","0748-7711",1.688,2,"REHABILITATION","US","no"
+"Polar Research","Co-Action Publishing","0800-0395",1.686,2,"OCEANOGRAPHY","SE","yes"
+"Annales Geophysicae","Copernicus Publications","0992-7689",1.676,2,"GEOSCIENCES, MULITDISCIPLINARY","DE","no"
+"Chemistry Central Journal","BioMed Central","1752-153X",1.663,2,"CHEMISTRY, MULITDISCIPLINARYAR","UK","no"
+"Global Health Action","Co-Action Publishing","1654-9880",1.646,2,"PUBLIC, ENVIRONMENTAL & OC","SE","yes"
+"American Museum Novitates","American Museum of Natural History","0003-0082",1.636,2,"BIODIVERSITY CONSERVATION","US","yes"
+"Pediatric Rheumatology","BioMed Central","1546-0096",1.622,2,"PEDIATRICS","UK","no"
+"Reproductive Health","BioMed Central","1742-4755",1.616,2,"PUBLIC, ENVIRONMENTAL & OC","UK","no"
+"AIP Advances","AIP Publishing LLC","2158-3226",1.59,2,"PHYSICS, APPLIED","US","yes"
+"Physical Review Special Topics. Physics Education Research","American Physical Society","1554-9178",1.573,2,"EDUCATION, SCIENTIFIC DISCIPLI ,","US","no"
+"Memórias do Instituto Oswaldo Cruz.","Instituto Oswaldo Cruz, Ministério da","0074-0276",1.566,2,"TROPICAL MEDICINE","BR","no"
+"Entropy","MDPI AG","1099-4300",1.564,2,"PHYSICS, MULITDISCIPLINARY","CH","yes"
+"International Journal of Medical Sciences","Ivyspring International Publisher","1449-1907",1.552,2,"MEDICINE, GENERAL & INTERNA  ","AU","yes"
+"BioData Mining","BioMed Central","1756-0381",1.535,2,"MATHEMATICAL & COMPUTATI","UK","no"
+"Science China Life Sciences","Springer","1674-7305",1.512,2,"BIOLOGY","DE","no"
+"Journal of Athletic Training","The National Athletic Trainers' Associ","1062-6050",1.509,2,"SPORT SCIENCES","US","no"
+"BMC Medical Informatics and Decision Making","BioMed Central","1472-6947",1.496,2,"MEDICAL INFORMATICS","UK","no"
+"Bulletin of Geosciences","Czech Geological Survey","1214-1119",1.495,2,"GEOSCIENCES, MULITDISCIPLINARYA,, ","CZ","yes"
+"Patient Preference and Adherence","Dove Medical Press","1177-889X",1.491,2,"MEDICINE, GENERAL & INTERNA  , ","UK","yes"
+"Koedoe : African Protected Area Conservation","AOSIS OpenJournals","0075-6458",1.486,2,"BIODIVERSITY CONSERVATION","ZA","yes"
+"Geologica Acta","Universidad de Barcelona","1695-6133",1.483,2,"GEOLOGY","ES","yes"
+"Turkish Journal of Earth Sciences","Scientific and Technical Research Cou","1300-0985",1.474,2,"GEOSCIENCES, MULITDISCIPLINARYA,,","TR","no"
+"Silva Fennica","Finnish Society of Forest Science, Fin","0037-5330",1.47,2,"FORESTRY","FI","no"
+"Computational Linguistics","MIT Press","0891-2017",1.468,2,"COMPUTER SCIENCE, ARTIFICIAL   ,","UK","yes"
+"Acta Otorhinolaryngologica Italica","Pacini Editore SpA","0392-100X",1.439,2,"OTORHINOLARYNGOLOGY","IT","no"
+"Clinics","Faculdade de Medicina / USP","1807-5932",1.422,2,"MEDICINE, GENERAL & INTERNA  ","BR","no"
 "BMC Medical Education","BioMed Central","1472-6920",1.409,2,"EDUCATION, SCIENTIFIC DISCIPLI ,","UK",
 "Canadian Family Physician","College of Family Physicians of Canad","0008-350X",1.403,2,"MEDICINE, GENERAL & INTERNA , ","CA",
 "Journal of Minimal Access Surgery","Medknow Publications","0972-9941",1.374,2,"SURGERY","IN",
