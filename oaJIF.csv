@@ -278,26 +278,26 @@ Bulletin of the Polish Academy of Sciences : Technical Sciences,Polish Academy o
 Journal of Hymenoptera Research,Pensoft Publishers,1070-9428,0.966,2,ENTOMOLOGY,BG,yes
 Journal of Official Statistics,Statistics Sweden,0282-423X,0.965,2,STATISTICS & PROBABILITY,SE,yes
 SORT,Statistical Institute of Catalonia (Idesc,1696-2281,0.962,2,STATISTICS & PROBABILITY,ES,yes
-Thermal Science,VINČA Institute of Nuclear Sciences,0354-9836,0.962,2,THERMODYNAMICS,RS,
-Revista da Sociedade Brasileira de Medicina T,Sociedade Brasileira de Medicina Tro,0037-8682,0.942,2,TROPICAL MEDICINE,BR,
-Scientia Agricola,Escola Superior de Agricultura,0103-9016,0.924,2,"AGRICULTURE, MULITDISCIPLINARY",BR,
-Journal of Insect Science,University of Wisconsin,1536-2442,0.921,2,ENTOMOLOGY,US,
-Symmetry,MDPI AG,2073-8994,0.918,2,MULITDISCIPLINARY SCIENCES,CH,
-Nonlinear Analysis : Modelling and Control,Institute of Mathematics and Informa,1392-5113,0.914,2,"MATHEMATICS, APPLIED",LT,
-The R Journal,The R Foundation for Statistical Comp,2073-4859,0.895,2,STATISTICS & PROBABILITY,AT,
-Electronic Transactions on Numerical Analysi,Kent State University Library,1068-9613,0.894,2,"MATHEMATICS, APPLIED",US,
-Discrete Dynamics in Nature and Society,Hindawi Publishing Corporation,1026-0226,0.882,2,MULITDISCIPLINARY SCIENCES,EG,
-Anais da Academia Brasileira de Ciências,Academia Brasileira de Ciências,0001-3765,0.875,2,MULITDISCIPLINARY SCIENCES,BR,
-Animal Science Papers and Reports,Polish Academy of Sciences,0860-4037,0.814,2,"AGRICULTURE, DAIRY & ANIMAL ",PO,
-Indian Journal of Fibre & Textile Research,NISCAIR,0971-0426,0.778,2,"MATERIALS SCIENCE, TEXTILES",IN,
-Journal of Engineered Fibers and Fabrics,"INDA, Association of the Nonwovens",1558-9250,0.778,2,"MATERIALS SCIENCE, TEXTILES",US,
-Metalurgija,Croatian Metallurgical Society,0543-5846,0.755,2,METALLURGY & METALLURGICA ,HR,
-Filomat,University of Nis,0354-5180,0.753,2,MATHEMATICS,RS,
-Ciência e Agrotecnologia,Universidade Federal de Lavras,1413-7054,0.726,2,"AGRICULTURE, MULITDISCIPLINARY",BR,
-Applicable Analysis and Discrete Mathematic,University of Belgrade and Academic,1452-8630,0.708,2,MATHEMATICS,RS,
-Pesquisa Agropecuária Brasileira,EMBRAPA,0100-204X,0.676,2,"AGRICULTURE, MULITDISCIPLINARY",BR,
-Annales Academiae Scientiarum Fennicae. M,Academia Scientiarum Fennica,1239-629X,0.648,2,MATHEMATICS,FI,
-Electronic Journal of Qualitative Theory of Dif,"University of Szeged, Bolyai Institute",1417-3875,0.638,2,MATHEMATICS,HU,
+Thermal Science,VINČA Institute of Nuclear Sciences,0354-9836,0.962,2,THERMODYNAMICS,RS,no
+Revista da Sociedade Brasileira de Medicina Tropical,Sociedade Brasileira de Medicina Tro,0037-8682,0.942,2,TROPICAL MEDICINE,BR,no
+Scientia Agricola,Escola Superior de Agricultura,0103-9016,0.924,2,"AGRICULTURE, MULITDISCIPLINARY",BR,no
+Journal of Insect Science,University of Wisconsin,1536-2442,0.921,2,ENTOMOLOGY,US,yes
+Symmetry,MDPI AG,2073-8994,0.918,2,MULITDISCIPLINARY SCIENCES,CH,no
+Nonlinear Analysis : Modelling and Control,Institute of Mathematics and Informa,1392-5113,0.914,2,"MATHEMATICS, APPLIED",LT,no
+The R Journal,The R Foundation for Statistical Comp,2073-4859,0.895,2,STATISTICS & PROBABILITY,AT,no
+Electronic Transactions on Numerical Analysis,Kent State University Library,1068-9613,0.894,2,"MATHEMATICS, APPLIED",US,no
+Discrete Dynamics in Nature and Society,Hindawi Publishing Corporation,1026-0226,0.882,2,MULITDISCIPLINARY SCIENCES,EG,no
+Anais da Academia Brasileira de Ciências,Academia Brasileira de Ciências,0001-3765,0.875,2,MULITDISCIPLINARY SCIENCES,BR,no
+Animal Science Papers and Reports,Polish Academy of Sciences,0860-4037,0.814,2,"AGRICULTURE, DAIRY & ANIMAL ",PO,no
+Indian Journal of Fibre & Textile Research,NISCAIR,0971-0426,0.778,2,"MATERIALS SCIENCE, TEXTILES",IN,no
+Journal of Engineered Fibers and Fabrics,"INDA, Association of the Nonwovens",1558-9250,0.778,2,"MATERIALS SCIENCE, TEXTILES",US,no
+Metalurgija,Croatian Metallurgical Society,0543-5846,0.755,2,METALLURGY & METALLURGICA ,HR,no
+Filomat,University of Nis,0354-5180,0.753,2,MATHEMATICS,RS,no
+Ciência e Agrotecnologia,Universidade Federal de Lavras,1413-7054,0.726,2,"AGRICULTURE, MULITDISCIPLINARY",BR,no
+Applicable Analysis and Discrete Mathematics,University of Belgrade and Academic,1452-8630,0.708,2,MATHEMATICS,RS,no
+Pesquisa Agropecuária Brasileira,EMBRAPA,0100-204X,0.676,2,"AGRICULTURE, MULITDISCIPLINARY",BR,no
+Annales Academiae Scientiarum Fennicae. Mathematica,Academia Scientiarum Fennica,1239-629X,0.648,2,MATHEMATICS,FI,yes
+Electronic Journal of Qualitative Theory of Differential Equations,"University of Szeged, Bolyai Institute",1417-3875,0.638,2,MATHEMATICS,HU,no
 Electronic Research Announcements in Math,American Mathematical Society,1935-9179,0.625,2,MATHEMATICS,US,
 Frontiers in Human Neuroscience,Frontiers Media,1662-5161,2.895,3,NEUROSCIENCES,CH,
 Bioscience Reports,"Portland Press, Biochemical Society",0144-8463,2.853,3,CELL BIOLOGY,UK,
